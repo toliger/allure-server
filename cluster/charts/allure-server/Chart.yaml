@@ -1,0 +1,9 @@
+apiVersion: v2
+name: allure-server
+description: Allure Server. Save/ generate / provide allure2 reports in one place 
+
+type: application
+
+version: 0.1.1
+
+appVersion: "2.8.2"
